@@ -4,7 +4,7 @@
   "description": "",
   "engines": {
     "node": "6.11.1"
-  }
+  },
   "main": "index.js",
   "scripts": {
     "serve": "live-server public/",
